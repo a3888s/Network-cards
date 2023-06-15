@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T12:53:05.693Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VnvqNbCUhPO_10y_YLT0" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T13:02:56.931Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TZi4zoBreNe5--vUZ8sb" version="21.4.0" type="github">
   <diagram name="Сторінка-1" id="vxo9Mqeuw824rBDed6Ia">
-    <mxGraphModel dx="2200" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,8 +125,8 @@
             <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToMg07O6w9Gh0h7sEnPY-20" value="PROXMOS&lt;br style=&quot;font-size: 18px;&quot;&gt;Windows&lt;br style=&quot;font-size: 18px;&quot;&gt;BAF&lt;br style=&quot;font-size: 18px;&quot;&gt;Asterisk&lt;br style=&quot;font-size: 18px;&quot;&gt;Video&lt;br style=&quot;font-size: 18px;&quot;&gt;Zabbix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="447" width="120" height="140" as="geometry" />
+        <mxCell id="ToMg07O6w9Gh0h7sEnPY-20" value="PROXMOS&lt;br style=&quot;font-size: 18px;&quot;&gt;Windows SRV&lt;br style=&quot;font-size: 18px;&quot;&gt;BAF&lt;br style=&quot;font-size: 18px;&quot;&gt;Asterisk&lt;br style=&quot;font-size: 18px;&quot;&gt;Video&lt;br style=&quot;font-size: 18px;&quot;&gt;Zabbix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="447" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ToMg07O6w9Gh0h7sEnPY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ToMg07O6w9Gh0h7sEnPY-25">
           <mxGeometry relative="1" as="geometry">

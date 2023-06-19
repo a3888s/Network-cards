@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T10:58:51.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="m17u-QQiheD1B1HY976e" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T11:02:45.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="O-KDrzwAudomNixiljDz" version="21.5.0" type="github">
   <diagram name="Сторінка-1" id="Lh0KcvSozKY48MrBEpJD">
     <mxGraphModel dx="2489" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry x="109" y="706" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wXBkCIPNih1uWdDQ4pTd-20" value="" style="shape=mxgraph.cisco.servers.cisco_unified_presence_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="79" width="54" height="67" as="geometry" />
+          <mxGeometry x="1041" y="77" width="54" height="67" as="geometry" />
         </mxCell>
         <mxCell id="wXBkCIPNih1uWdDQ4pTd-21" value="" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="686" width="70" height="28" as="geometry" />
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wXBkCIPNih1uWdDQ4pTd-31" value="PROXMOS&lt;br style=&quot;font-size: 18px;&quot;&gt;Windows SRV&lt;br style=&quot;font-size: 18px;&quot;&gt;BAF&lt;br style=&quot;font-size: 18px;&quot;&gt;Asterisk&lt;br style=&quot;font-size: 18px;&quot;&gt;Video&lt;br style=&quot;font-size: 18px;&quot;&gt;Zabbix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1148" y="50" width="140" height="140" as="geometry" />
+          <mxGeometry x="1102" y="48" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wXBkCIPNih1uWdDQ4pTd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wXBkCIPNih1uWdDQ4pTd-34" edge="1">
           <mxGeometry relative="1" as="geometry">

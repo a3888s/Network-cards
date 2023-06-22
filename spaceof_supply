@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T07:08:26.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hlJ9tWNOAaX1lD3xzABj" version="21.5.0" type="github">
-  <diagram name="Сторінка-1" id="Lh0KcvSozKY48MrBEpJD">
+<mxfile host="app.diagrams.net" modified="2023-06-22T09:41:18.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yfyxe39J4ErWr8YsCUrk" version="21.5.0" type="github" pages="2">
+  <diagram name="Загальна топологія мережі" id="Lh0KcvSozKY48MrBEpJD">
     <mxGraphModel dx="2933" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
@@ -56,6 +56,11 @@
         </mxCell>
         <mxCell id="NV3L5jdIVulG_m62peMt-118" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="wXBkCIPNih1uWdDQ4pTd-15" target="wXBkCIPNih1uWdDQ4pTd-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X3O5laJQN2Xxime6BZF_-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NV3L5jdIVulG_m62peMt-118">
+          <mxGeometry x="0.6288" y="11" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wXBkCIPNih1uWdDQ4pTd-15" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FAFAFA;strokeColor=#005073;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="519" y="328" width="246" height="139" as="geometry" />
@@ -557,6 +562,14 @@
         <mxCell id="CiSmUIuRvWnG-EX71EQO-135" value="ether1 WAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1809.128467037514" y="588.3449219515776" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LWCYiRes0KK9AZ5O8YA2" name="Топологія ТОВ ТОП СІТІ">
+    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

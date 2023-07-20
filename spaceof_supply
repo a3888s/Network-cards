@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T12:17:42.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jSOuGgnwOCkR3Rvu8r1g" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-20T11:46:03.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GUDYtBpLeoQzqFjeSNzF" version="21.6.3" type="github" pages="3">
   <diagram name="Загальна топологія мережі" id="Lh0KcvSozKY48MrBEpJD">
-    <mxGraphModel dx="2514" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="1">
+    <mxGraphModel dx="382" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="814" y="65" width="110" height="255" as="geometry" />
         </mxCell>
         <mxCell id="NV3L5jdIVulG_m62peMt-46" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;size=0.050445103857566766;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="784" y="766" width="140" height="337" as="geometry" />
+          <mxGeometry x="784" y="766" width="140" height="384" as="geometry" />
         </mxCell>
         <mxCell id="NV3L5jdIVulG_m62peMt-45" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;size=0.050445103857566766;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="971" y="765" width="160" height="337" as="geometry" />
+          <mxGeometry x="971" y="765" width="160" height="385" as="geometry" />
         </mxCell>
         <mxCell id="wXBkCIPNih1uWdDQ4pTd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wXBkCIPNih1uWdDQ4pTd-5" target="wXBkCIPNih1uWdDQ4pTd-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -226,8 +226,8 @@
         <mxCell id="NV3L5jdIVulG_m62peMt-54" value="" style="shape=mxgraph.cisco.modems_and_phones.hootphone;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="722" y="1076" width="41" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NV3L5jdIVulG_m62peMt-57" value="PROXMOS&lt;br&gt;Windows SRV&lt;br&gt;BAF&lt;br&gt;ZoneMinder&lt;br&gt;Asterisk&lt;br&gt;Mail SRV&lt;br&gt;Jitsi&lt;br&gt;spaceof.supply" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="786" y="908" width="140" height="158" as="geometry" />
+        <mxCell id="NV3L5jdIVulG_m62peMt-57" value="PROXMOS&lt;br&gt;TrueNAS&lt;br&gt;Asterisk&lt;br&gt;Mail SRV&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ZoneMinder&lt;br&gt;Windows SRV&lt;br&gt;BAF&lt;br&gt;Jitsi&lt;br&gt;spaceof.supply" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="786" y="908" width="140" height="202" as="geometry" />
         </mxCell>
         <mxCell id="NV3L5jdIVulG_m62peMt-61" value="НЕОБХІДНЕ ОБЛАДАННЯ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170" y="1290" width="1140" height="120" as="geometry" />

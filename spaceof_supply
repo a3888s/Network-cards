@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T07:39:05.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YXKJFODT-qODQGUkmf2q" version="21.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-18T11:12:46.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TfwSch30TTccW8y2bsRa" version="21.7.5" type="github" pages="4">
   <diagram name="Загальна топологія мережі" id="Lh0KcvSozKY48MrBEpJD">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="1">
       <root>
@@ -618,7 +618,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JWRqZC2YLoo_USWYGLXM" name="Сторінка-4">
-    <mxGraphModel dx="6176" dy="1580" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4817" dy="832" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

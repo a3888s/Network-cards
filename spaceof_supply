@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T07:53:01.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mC5aFS3g2Fqsw_AyP3e9" version="24.4.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-21T07:54:59.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tLp03OdmZi7ByvUuKzKq" version="24.4.4" type="github" pages="5">
   <diagram name="Загальна топологія мережі" id="Lh0KcvSozKY48MrBEpJD">
     <mxGraphModel dx="3770" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="1">
       <root>
@@ -7095,10 +7095,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CiOziaJosnk_seJzk9A0-123" value="Night | 100147763" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1183.57" y="155.285" width="200" height="53.43" as="geometry" />
+          <mxGeometry x="1104.57" y="155.285" width="200" height="53.43" as="geometry" />
         </mxCell>
         <mxCell id="CiOziaJosnk_seJzk9A0-127" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;VOICEMAIL&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1457.57" y="142" width="120" height="80" as="geometry" />
+          <mxGeometry x="1378.57" y="142" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T6zjrdx7FU7DvtAL7JIl-2" value="&lt;div style=&quot;&quot;&gt;Inbound Rules&lt;br&gt;Any&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Any&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;00:00:00 - 23:59:59&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;100184987&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="658.5" y="142" width="120" height="80" as="geometry" />
@@ -7119,7 +7119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CiOziaJosnk_seJzk9A0-134" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="62" y="14.43" width="130" height="197.57" as="geometry" />
+          <mxGeometry x="423" y="14.43" width="130" height="197.57" as="geometry" />
         </mxCell>
         <mxCell id="CiOziaJosnk_seJzk9A0-132" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;380920922222&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFFFCC;fontStyle=1" vertex="1" parent="CiOziaJosnk_seJzk9A0-134">
           <mxGeometry width="130" height="39.72" as="geometry" />

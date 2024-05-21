@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T07:45:35.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WcPx7mOPyT7qUeQ29v_l" version="24.4.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-21T07:48:33.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9Zn_aObfoenhfqbGrBDz" version="24.4.4" type="github" pages="5">
   <diagram name="Загальна топологія мережі" id="Lh0KcvSozKY48MrBEpJD">
     <mxGraphModel dx="3770" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="1">
       <root>
@@ -7117,6 +7117,15 @@
             <mxPoint x="838" y="94" as="sourcePoint" />
             <mxPoint x="729" y="152" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CiOziaJosnk_seJzk9A0-134" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="62" y="14.43" width="130" height="197.57" as="geometry" />
+        </mxCell>
+        <mxCell id="CiOziaJosnk_seJzk9A0-132" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;380920922222&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFFFCC;fontStyle=1" vertex="1" parent="CiOziaJosnk_seJzk9A0-134">
+          <mxGeometry width="130" height="39.72" as="geometry" />
+        </mxCell>
+        <mxCell id="CiOziaJosnk_seJzk9A0-133" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Any&lt;/div&gt;&lt;div&gt;Saturday&lt;/div&gt;&lt;div&gt;&quot;00:00:00 - 23:59:59&quot;&lt;/div&gt;&lt;div&gt;Callback&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CiOziaJosnk_seJzk9A0-134">
+          <mxGeometry x="5" y="127.57" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
